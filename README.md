@@ -9,8 +9,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dineshbaburs/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [1563-stone-game-v](https://github.com/Dineshbaburs/leetcode-solutions/tree/master/1563-stone-game-v) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dineshbaburs/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/Dineshbaburs/leetcode-solutions/tree/master/1563-stone-game-v) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/Dineshbaburs/leetcode-solutions/tree/master/1563-stone-game-v) |
+## Game Theory
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/Dineshbaburs/leetcode-solutions/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
