@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dineshbaburs/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [1563-stone-game-v](https://github.com/Dineshbaburs/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dineshbaburs/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Recursion
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Dineshbaburs/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dineshbaburs/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Dineshbaburs/leetcode-solutions/tree/master/1563-stone-game-v) |
+## Binary Search
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dineshbaburs/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dineshbaburs/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dineshbaburs/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dineshbaburs/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
